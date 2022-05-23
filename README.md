@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sewekk
 - 👀 I’m interested in Web Development  :computer:  and Basketball :basketball:
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
